@@ -33,3 +33,17 @@ dvc init
 ```bash
 dvc add data_given/winequality.csv
 ```
+
+```bash
+git add .
+```
+
+```bash
+git commit -m "first commit"
+```
+
+```bash
+git remote add origin git remote add origin https://github.com/Fortunatetech/Wine-quality-Prediction-MLOps-with-Deployment.git
+git branch -M main
+git push origin main
+```
