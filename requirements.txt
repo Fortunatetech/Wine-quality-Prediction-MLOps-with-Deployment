@@ -6,4 +6,6 @@ numpy
 pandas
 pytest
 tox
-flake8
+#flake8
+flask
+gunicorn
