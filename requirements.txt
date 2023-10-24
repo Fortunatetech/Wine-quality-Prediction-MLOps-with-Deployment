@@ -1,5 +1,5 @@
-dvc
-dvc[gdrive]
+# local package install
+-e .
 scikit-learn
 PyYAML
 numpy
@@ -9,3 +9,8 @@ tox
 #flake8
 flask
 gunicorn
+# third party packages
+dvc
+dvc[gdrive]
+
+
